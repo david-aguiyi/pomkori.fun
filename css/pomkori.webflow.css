@@ -163,7 +163,7 @@
 }
 
 .text-block-3.green.pink.blue {
-  color: #3c315b;
+  color: #ffffff;
   -webkit-text-stroke-color: #255fb0;
 }
 
@@ -204,8 +204,8 @@
 }
 
 .heading.pink.blue {
-  -webkit-text-stroke-color: #3c315b;
-  text-shadow: 1vw 1vw #3c315b;
+  -webkit-text-stroke-color: #00339d;
+  text-shadow: 1vw 1vw #0151FC;
 }
 
 .div-block-6 {
@@ -321,7 +321,7 @@
 }
 
 .div-block-9.howtobuy {
-  background-color: #937ecd;
+  background-color: #447fff;
   border-bottom: 5px solid #0151FC;
   padding-top: 80px;
   padding-bottom: 100px;
@@ -464,11 +464,11 @@
 }
 
 .div-block-16 {
-  background-color: #6c5b9a;
-  background-image: linear-gradient(#3c315b, #fff0), url('../images/worn-dots.png');
+  background-color: #4681ff;
+  background-image: linear-gradient(#000b23, #fff0), url(../images/worn-dots.png);
   background-position: 0 0, 0 0;
   background-size: auto, 100px;
-  border: 5px solid #3c315b;
+  border: 5px solid #002676;
   border-radius: 20px;
   flex-flow: column;
   justify-content: space-between;
@@ -478,7 +478,7 @@
   padding: 20px;
   display: flex;
   position: relative;
-  box-shadow: 5px 5px #3c315b;
+  box-shadow: 5px 5px #0151FC;
 }
 
 .heading-4 {
@@ -510,14 +510,14 @@
 }
 
 .link-block-6.blue {
-  background-color: #937ecd;
-  border: 3px solid #3c315b;
+  background-color: #0151FC;
+  border: 3px solid #011e5b;
   transition: all .35s cubic-bezier(.175, .885, .32, 1.275);
-  box-shadow: 0 0 #3c315b;
+  box-shadow: 0 0 #253455;
 }
 
 .link-block-6.blue:hover {
-  box-shadow: 5px 5px #3c315b;
+  box-shadow: 5px 5px #253455;
 }
 
 .icon-embed-custom-12 {
@@ -537,7 +537,7 @@
 }
 
 .image-3 {
-  border: 5px solid #3c315b;
+  border: 5px solid #0151FC;
   border-radius: 20px;
   width: 100%;
   max-width: 200px;
